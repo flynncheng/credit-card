@@ -1,0 +1,27 @@
+{
+  "LocaleLayout": {
+    "title": "Credit Card",
+    "contact-us-button": "Skontaktuj się z nami",
+    "contact-us-title": "Obsługa Klienta",
+    "contact-us-description": "Prosimy o kontakt poprzez e-mail",
+    "copy": "Kopiuj",
+    "copied": "Skopiowane",
+    "failed-to-copy": "Kopiowanie nie powiodło się z powodu niepewnego połączenia.",
+    "send-email": "Wyślij e-mail"
+  },
+  "SignUpPage": {
+    "title": "Zaloguj się do swojego konta",
+    "email": "E-mail",
+    "proceed": "Kontynuuj",
+    "login": "Zaloguj sie",
+    "disclaimer": "Przeczytałem i zgadzam się z <terms>Warunkami korzystania z usługi</terms>, <privacy>Polityka prywatności</privacy>.",
+    "email-invalid": "Proszę podać prawidłowy adres e-mail.",
+    "checkbox-invalid": "Zaznacz to pole, jeśli chcesz kontynuować.",
+    "connect-wallet": "Podłącz portfel",
+    "select-network": "Wybierz sieć: ",
+    "slow-connection-title": "Powolne połączenie",
+    "slow-connection-description": "Twoje połączenie internetowe jest znacznie wolne, co może mieć krytyczny wpływ na proces płatności i może skutkować opóźnieniami lub przerwami.",
+    "continue": "Kontynuować",
+    "login-session-expired": "Twoja sesja wygasła. \nAby kontynuować, zaloguj się ponownie."
+  }
+}

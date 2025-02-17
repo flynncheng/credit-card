@@ -1,0 +1,27 @@
+{
+  "LocaleLayout": {
+    "title": "Credit Card",
+    "contact-us-button": "お問い合わせ",
+    "contact-us-title": "カスタマーサービス",
+    "contact-us-description": "メールでお問い合わせください",
+    "copy": "コピー",
+    "copied": "コピーされました",
+    "failed-to-copy": "接続が安全でないため、コピーに失敗しました。",
+    "send-email": "メールを送信"
+  },
+  "SignUpPage": {
+    "title": "アカウントにログイン",
+    "email": "メール",
+    "proceed": "続行する",
+    "login": "ログイン",
+    "email-invalid": "有効な電子メール アドレスを入力してください。",
+    "checkbox-invalid": "続行する場合は、このボックスにチェックを入れてください。",
+    "disclaimer": "<terms>利用規約</terms>、<privacy>プライバシー ポリシー</privacy>。",
+    "connect-wallet": "ウォレットを接続する",
+    "select-network": "ネットワークの選択: ",
+    "slow-connection-title": "接続が遅い",
+    "slow-connection-description": "インターネット接続が著しく遅いため、支払いプロセスに重大な影響を及ぼし、遅延や中断が発生する可能性があります。",
+    "continue": "続く",
+    "login-session-expired": "セッションの有効期限が切れました。\n続行するには再度ログインしてください。"
+  }
+}

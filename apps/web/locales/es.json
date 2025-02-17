@@ -1,0 +1,26 @@
+{
+  "LocaleLayout": {
+    "contact-us-button": "Contáctanos",
+    "contact-us-title": "Servicio al Cliente",
+    "contact-us-description": "Por favor contáctenos por correo electrónico",
+    "copy": "Copiar",
+    "copied": "Copiado",
+    "failed-to-copy": "Error al copiar debido a una conexión insegura.",
+    "send-email": "Enviar correo electrónico"
+  },
+  "SignUpPage": {
+    "title": "Inicia sesión en tu cuenta",
+    "email": "Correo electrónico",
+    "proceed": "Continuar",
+    "login": "Acceso",
+    "email-invalid": "Por favor, proporciona una dirección de correo electrónico válida.",
+    "checkbox-invalid": "Por favor, marca esta casilla si deseas continuar.",
+    "disclaimer": "He leído y acepto los <terms>Términos de servicio</terms>, <privacy>Política de privacidad</privacy>.",
+    "connect-wallet": "Conectar billetera",
+    "select-network": "Seleccione la red: ",
+    "slow-connection-title": "Conexión lenta",
+    "slow-connection-description": "Su conexión a Internet es significativamente lenta, lo que podría afectar gravemente el proceso de pago y provocar retrasos o interrupciones.",
+    "continue": "Continuar",
+    "login-session-expired": "Tu sesión ha caducado. \nPor favor inicie sesión nuevamente para continuar."
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "Error": {
+    "description": "<p>We've unfortunately encountered an error.</p><p>You can try to <retry>reload the page</retry> you were visiting.</p>",
+    "title": "Something went wrong!"
+  },
+  "IndexPage": {
+    "description": "This is a basic example that demonstrates the usage of <code>next-intl</code> with the Next.js App Router. Try changing the locale in the top right corner and see how the content changes.",
+    "title": "next-intl example"
+  },
+  "Manifest": {
+    "name": "next-intl example"
+  },
+  "Navigation": {
+    "home": "Home",
+    "pathnames": "Pathnames"
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "description": "Sorry, we couldn’t find the page you’re looking for.",
+    "back": "Go back home",
+    "support": "Contact support"
+  },
+  "PageLayout": {
+    "links": {
+      "docs": {
+        "description": "Learn more about next-intl in the official docs.",
+        "href": "https://next-intl.dev",
+        "title": "Docs"
+      },
+      "source": {
+        "description": "Browse the source code of this example on GitHub.",
+        "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+        "title": "Source code"
+      }
+    }
+  },
+  "PathnamesPage": {
+    "description": "<p>The pathnames are internationalized too.</p><p>If you're using the default language English, you'll see <code>/en/pathnames</code> in the browser address bar on this page.</p><p>If you change the locale to German, the URL is localized accordingly (<code>/de/pfadnamen</code>).</p>",
+    "title": "Pathnames"
+  },
+  "LocaleLayout": {
+    "title": "Credit Card",
+    "contact-us-button": "Contact us",
+    "contact-us-title": "Customer Service",
+    "contact-us-description": "Please contact us via email",
+    "copy": "Copy",
+    "copied": "Copied",
+    "failed-to-copy": "Failed to copy due to an insecure connection.",
+    "send-email": "Send email"
+  },
+  "Form": {
+    "error-required": "This field is required.",
+    "error-firstName": "First Name is not valid.",
+    "error-lasttName": "Last Name is not valid.",
+    "error-dateOfBirth": "You must be between 18 and 65 years old to proceed!",
+    "error-addressLine1": "Address Line 1 is not valid.",
+    "error-addressLine2": "Address Line 2 is not valid.",
+    "error-city": "City is not valid.",
+    "error-idNumber": "Identity number is not valid.",
+    "error-phone": "Phone number is not valid.",
+    "error-amount": "Amount is not valid.",
+    "error-topup-min": "A minimum of {min} USDT / USDC is required to topup your card."
+  },
+  "SignUpPage": {
+    "title": "Log in to your account",
+    "email": "Email",
+    "proceed": "Proceed",
+    "connect-wallet": "Connect Wallet",
+    "select-network": "Select network:",
+    "login": "Login",
+    "email-invalid": "Please provide a valid email address.",
+    "checkbox-invalid": "Please check this box if you want to proceed.",
+    "disclaimer": "I have read and agree to <terms>Terms of Service</terms>, <privacy>Privacy Policy</privacy>.",
+    "slow-connection-title": "Slow Connection",
+    "slow-connection-description": "Your internet connection is significantly slow, which could critically affect the payment process and may result in delays or interruptions.",
+    "continue": "Continue",
+    "login-session-expired": "Your session has expired. Please log in again to continue."
+  },
+  "SignInPage": {
+    "title": "Verification code",
+    "description": "Please enter the verification code sent to",
+    "not-received": "Not received",
+    "resend": "Resend code",
+    "code-sent-to": "Verification code sent to",
+    "code-incorrect": "Verification code is incorrect",
+    "code-resending": "Sending a verification code...",
+    "code-resent": "Verification code has been sent",
+    "code-error": "Sorry, the system is under maintenance",
+    "login-success": "Successfully logged in",
+    "code-sent": "Verification code has been sent",
+    "code-sending": "Sending a verification code...",
+    "incorrect-otp": "The verification code is not correct, please re-enter",
+    "expired-otp": "The verification code has expired, please re-enter"
+  },
+  "KycPage": {
+    "kyc-verifying": "Verifying",
+    "kyc-status": "KYC status",
+    "kyc-desc": "KYC description",
+    "new": "New customer",
+    "passed": "Passed",
+    "rejected": "Rejected",
+    "verifying": "Verifying",
+    "checkbox-invalid": "Please check this box if you want to proceed.",
+    "id-card": "ID Card",
+    "passport": "Passport",
+    "error-required": "This field is required.",
+    "error-firstName": "First Name is not valid.",
+    "error-lasttName": "Last Name is not valid.",
+    "error-dateOfBirth": "You must be between 18 and 65 years old to proceed!",
+    "error-addressLine1": "Address Line 1 is not valid.",
+    "error-addressLine2": "Address Line 2 is not valid.",
+    "error-city": "City is not valid.",
+    "error-idNumber": "Identity number is not valid."
+  },
+  "RiskReminder": {
+    "prohibited-business-types": "Prohibited business types:",
+    "internet-gambling": "Internet gambling",
+    "pornographic-platforms": "Pornographic platforms",
+    "gift-cards": "Gift cards",
+    "illegal-forex": "Illegal forex",
+    "illegal-fundraising": "Illegal fundraising",
+    "illegal-securities-and-futures-trading-platforms": "Illegal securities and futures trading platforms",
+    "token-issuance-financing": "Token issuance financing",
+    "virtual-currency-trading-platforms": "Virtual currency trading platforms",
+    "fortune-telling": "Fortune-telling",
+    "illegal-or-high-risk-activities": "Illegal or high-risk activities such as unreasonable donations, etc."
+  },
+  "CardApplyPage": {
+    "checkbox-invalid": "Please check this box if you want to proceed."
+  },
+  "CardHomePage": {
+    "holder-name": "Holder name"
+  },
+  "KycStatus": {
+    "verifying": "Your KYC documents are currently being verified. Please check back again later.",
+    "rejected": "Verification failed, please try again.",
+    "support": "Contact support",
+    "title": "Verifying",
+    "back": "Go back home page",
+    "passed": "Verified.",
+    "id-number-not-match": "The number you entered does not match the one displayed on the ID document.",
+    "country-not-match": "KYC country selected does not match the one displayed on the ID document.",
+    "photocopy": "ID document can not be a photocopy, please check and try again.",
+    "digital-copy": "ID document can not be a digital copy, please check and try again.",
+    "manipulated-document": "ID document can not be manipulated, please check and try again.",
+    "part-of-document-hidden": "ID document can not be partially hidden, please check and try again.",
+    "part-of-document-missing": "ID document should be fully displayed, please check and try again.",
+    "multiple-people": "Multiple People in the picture, please check and try again.",
+    "black-white": "ID document is black and white, not valid for verification, please check and try again.",
+    "bad-quality": "Image is not clear, please check and try again.",
+    "damaged-document": "Document is damaged, not valid for verification, please check and try again.",
+    "not-a-document": "Not a valid ID document, please check and try again",
+    "rejected-title": "Reject",
+    "passed-title": "Verified",
+    "back-account": "Back to my account",
+    "new": "The KYC process has not yet been initiated."
+  }
+}

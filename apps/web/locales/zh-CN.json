@@ -1,0 +1,27 @@
+{
+  "LocaleLayout": {
+    "title": "Credit Card",
+    "contact-us-button": "联系我们",
+    "contact-us-title": "客户服务",
+    "contact-us-description": "请通过电子邮件联系我们",
+    "copy": "复制",
+    "copied": "已复制",
+    "failed-to-copy": "由于连接不安全，复制失败。",
+    "send-email": "发送电子邮件"
+  },
+  "SignUpPage": {
+    "title": "登录您的帐户",
+    "email": "邮箱",
+    "proceed": "继续",
+    "login": "登录",
+    "email-invalid": " 请提供一个有效的电子邮件地址。",
+    "checkbox-invalid": "如果您想继续，请选中此框。",
+    "disclaimer": "我已阅读并同意<terms>服务条款</terms>, <privacy>隐私政策</privacy>。",
+    "connect-wallet": "连接钱包",
+    "select-network": "选择网络：",
+    "slow-connection-title": "连接速度慢",
+    "slow-connection-description": "您的互联网连接速度非常慢，这可能会严重影响付款流程，并可能导致延迟或中断。",
+    "continue": "继续",
+    "login-session-expired": "您的会话已过期。\n请重新登录以继续。"
+  }
+}
